@@ -1,11 +1,11 @@
 /**
- * @program: test
- * @description: 实验
+ * @program: Test
+ * @description: 实验提交
  * @author: HAOYI
- * @create: 2020-04-14-10:09
+ * @create: 2020-04-14-17:37
  **/
 public class Test {
     public static void main(String[] args) {
-    System.out.println("HELLO WORLD");
-}
+        System.out.println("HELLO WORLD");
+    }
 }
